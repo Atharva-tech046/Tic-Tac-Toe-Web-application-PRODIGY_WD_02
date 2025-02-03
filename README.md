@@ -7,5 +7,5 @@ A simple yet engaging Tic-Tac-Toe web application built using HTML, CSS, and Jav
 ✔️ Winning logic implementation
 
 
-🔗 🔴Live Demo: [http://127.0.0.1:5500/]
+🔗 🔴Live Demo: [https://atharva-tech046.github.io/Tic-Tac-Toe-Web-application-PRODIGY_WD_02/]
 
